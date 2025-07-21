@@ -35,7 +35,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Instalar e gerenciar extensões
 - Usar atalhos básicos de produtividade
 
-**📁 [Ver Aula 1](./Aulas/Aula_1/readme.md)**
+**📁 [Ver Aula 1](./Curso-VScode/Aulas/Aula_1/readme.md)**
 
 ---
 
@@ -53,7 +53,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Organizar extensões por função
 - Usar extensões especializadas por linguagem
 
-**📁 [Ver Aula 2](./Aulas/Aula_2/readme.md)**
+**📁 [Ver Aula 2](./Curso-VScode/Aulas/Aula_2/readme.md)**
 
 ---
 
@@ -71,7 +71,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Usar a paleta de comandos eficientemente
 - Aplicar técnicas avançadas de edição
 
-**📁 [Ver Aula 3](./Aulas/Aula_3/readme.md)**
+**📁 [Ver Aula 3](./Curso-VScode/Aulas/Aula_3/readme.md)**
 
 ---
 
@@ -89,7 +89,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Criar configurações de debugging
 - Automatizar tarefas comuns
 
-**📁 [Ver Aula 4](./Aulas/Aula_4/readme.md)**
+**📁 [Ver Aula 4](./Curso-VScode/Aulas/Aula_4/readme.md)**
 
 ---
 
@@ -107,7 +107,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Configurar debugging para diferentes linguagens
 - Usar extensões Git para produtividade
 
-**📁 [Ver Aula 5](./Aulas/Aula_5/readme.md)**
+**📁 [Ver Aula 5](./Curso-VScode/Aulas/Aula_5/readme.md)**
 
 ---
 
@@ -125,7 +125,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Organizar snippets por projeto
 - Aplicar temas e ícones adequados
 
-**📁 [Ver Aula 6](./Aulas/Aula_6/readme.md)**
+**📁 [Ver Aula 6](./Curso-VScode/Aulas/Aula_6/readme.md)**
 
 ---
 
@@ -143,7 +143,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Configurar automação para projetos
 - Integrar scripts externos
 
-**📁 [Ver Aula 7](./Aulas/Aula_7/readme.md)**
+**📁 [Ver Aula 7](./Curso-VScode/Aulas/Aula_7/readme.md)**
 
 ---
 
@@ -161,7 +161,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Debuggar aplicações web e mobile
 - Usar extensões especializadas
 
-**📁 [Ver Aula 8](./Aulas/Aula_8/readme.md)**
+**📁 [Ver Aula 8](./Curso-VScode/Aulas/Aula_8/readme.md)**
 
 ---
 
@@ -179,7 +179,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Configurar ambiente para diferentes tipos de desenvolvimento
 - Aplicar técnicas avançadas de organização
 
-**📁 [Ver Aula 9](./Aulas/Aula_9/readme.md)**
+**📁 [Ver Aula 9](./Curso-VScode/Aulas/Aula_9/readme.md)**
 
 ---
 
@@ -197,7 +197,7 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - Automatizar fluxos de trabalho específicos
 - Desenvolver automação personalizada
 
-**📁 [Ver Aula 10](./Aulas/Aula_10/readme.md)**
+**📁 [Ver Aula 10](./Curso-VScode/Aulas/Aula_10/readme.md)**
 
 ---
 
@@ -295,16 +295,16 @@ O curso está organizado em **10 aulas progressivas**, cada uma focando em aspec
 - [Stack Overflow - VS Code](https://stackoverflow.com/questions/tagged/vscode)
 
 ### **Extensões Recomendadas:**
-- [Lista completa de extensões](./Aulas/Aula_2/readme.md#extensões-essenciais)
+- [Lista completa de extensões](./Curso-VScode/Aulas/Aula_2/readme.md#extensões-essenciais)
 
 ---
 
 ## 🚀 **Como Começar**
 
-1. **Instale o VS Code** seguindo a [Aula 1](./Aulas/Aula_1/readme.md)
+1. **Instale o VS Code** seguindo a [Aula 1](./Curso-VScode/Aulas/Aula_1/readme.md)
 2. **Configure o ambiente** básico
-3. **Instale extensões essenciais** da [Aula 2](./Aulas/Aula_2/readme.md)
-4. **Pratique os atalhos** da [Aula 3](./Aulas/Aula_3/readme.md)
+3. **Instale extensões essenciais** da [Aula 2](./Curso-VScode/Aulas/Aula_2/readme.md)
+4. **Pratique os atalhos** da [Aula 3](./Curso-VScode/Aulas/Aula_3/readme.md)
 5. **Continue progressivamente** pelas aulas seguintes
 
 ### **Dica importante:**
